@@ -62,12 +62,9 @@ public/css/app.css
 sonar-project.properties
 .scannerwork/
 
-public/uploads/assets/*.*
 /src/backup/bin/
 backups/
 restores/
-
-public/uploads/assets/upload/
 
 stats\.json
 
