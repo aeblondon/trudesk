@@ -552,7 +552,7 @@ ticketsController.uploadImageMDE = function (req, res) {
     headers: req.headers,
     limits: {
       files: 1,
-      fileSize: 5 * 1024 * 1024 // 5mb limit
+      fileSize: 20 * 1024 * 1024 // 20mb limit
     }
   })
 
